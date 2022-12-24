@@ -1,11 +1,5 @@
-                                                                                                          Abhishai Anandaraj.J(202101002)
-                                                                                               II CSE A                           
-
-     
-                                                          OOPS ASSIGNMENT - IV
-CATEGORY - EASY
-C# program to record a video using camera
-Program:
+                                                                                                          
+                                                                                                
 using System;
 using System.Drawing;
 using System.Windows.Forms;
